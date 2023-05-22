@@ -6,7 +6,7 @@ import playsound
 from gtts import gTTS
 import openai
 
-api_key = "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"
+api_key = "add your own"
 
 lang = 'en'
 
